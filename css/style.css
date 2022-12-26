@@ -270,7 +270,7 @@ header.sticky{
 .layer{
 	width: 100%;
 	height: 0;
-	background: linear-gradient(rgba(0,0,0,0.1), #ff004f);
+	background: linear-gradient(rgba(0,0,0,0.1), #00ff88);
 	position: absolute;
 	border-radius: 8px;
 	left: 0;
@@ -290,7 +290,7 @@ header.sticky{
 	margin-bottom: 15px;
 }
 .layer p{
-	color: var(--second-color);
+	color: var(--text-color);
 	font-size: 1rem;
 	line-height: 1.8;
 }
