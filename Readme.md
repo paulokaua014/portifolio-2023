@@ -1,6 +1,6 @@
 <h1 align="center">Portifólio - Paulo 💻</h1>
 
-![Imagem do projeto finalizado](img/portifolio.png))
+![Imagem do projeto finalizado](img/portifolio-grande.png))
 
 <h4 align="center"><a href="#">Confira o projeto aqui</a></h4>
 
