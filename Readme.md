@@ -2,7 +2,7 @@
 
 ![Imagem do projeto finalizado](img/portifolio-grande.png))
 
-<h4 align="center"><a href="#">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://paulokaua014.github.io/portifolio-2023/">Confira o projeto aqui</a></h4>
 
 ---
 
