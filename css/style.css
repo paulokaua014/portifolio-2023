@@ -270,7 +270,7 @@ header.sticky{
 .layer{
 	width: 100%;
 	height: 0;
-	background: linear-gradient(rgba(0,0,0,0.1), #00ff88);
+	background: linear-gradient(rgba(0,0,0,0.1), #09d476);
 	position: absolute;
 	border-radius: 8px;
 	left: 0;
