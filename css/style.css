@@ -476,6 +476,10 @@ form textarea{
 }
 
 @media (max-width: 840px){
+	.home-text p{
+		color: var(--main-color);
+		font-weight: bolder;
+	}
 	#menu-icon{
 		display: block;
 	}
